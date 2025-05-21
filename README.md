@@ -4,9 +4,9 @@ Neural Network Model Report: Alphabet Soup Deep Learning Analysis
 
 The purpose of this analysis was to develop and evaluate a deep learning model to predict whether a non-profit organization would receive funding from Alphabet Soup. By using historical data containing organizational, financial, and categorical attributes, the objective was to create a binary classification model that could assist in funding decisions.
 
-#📊 Results
+# 📊 Results
 
-##🔍 Data Preprocessing
+## 🔍 Data Preprocessing
 * Target Variable(s):
  * IS_SUCCESSFUL — indicates whether an organization received funding (1) or did not (0).
 * Feature Variable(s):
@@ -44,8 +44,6 @@ The purpose of this analysis was to develop and evaluate a deep learning model t
 📉 Training and validation loss steadily decreased
 📈 Accuracy stabilized after tuning, indicating generalization
 📈 Model Training Performance Plots
-
- ![alt text](https://github.com/[alyssaberridge]/[Homework/deep-learning-challenge/Deep_Learning_Challenge]/blob/[main]/output.png?raw=true) 
 
 Accuracy Plot: Validation accuracy stabilized near the target, with minimal overfitting.
 Loss Plot: Both training and validation loss decreased over epochs, confirming effective learning.
